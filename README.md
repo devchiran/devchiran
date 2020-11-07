@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello/Bonjour I am Chiranjit Poddar 👋
 
+- 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/chiranjit-poddar)
 <!--
 **devchiran/devchiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
